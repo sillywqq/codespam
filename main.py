@@ -50,5 +50,5 @@ def a(phone_number, attempts=10):
 
 if __name__ == "__main__":
     t = input("enter phone number: ").strip()
-    n = int(input('enter attempts: ')).strip()
+    n = int(input('enter attempts: '))
     a(t, n)
