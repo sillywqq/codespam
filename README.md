@@ -1,0 +1,2 @@
+requirements:<br>
+`telethon opentele`
